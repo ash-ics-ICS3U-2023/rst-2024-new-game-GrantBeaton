@@ -84,7 +84,7 @@ body {
     border: 2px solid gray;
     border-radius: 3px;
     margin: 2px;
-    font-size: 2.5rem;
+    font-size: 2.5px;
     font-weight: 700;
     height: 60px;
     width: 60px;
@@ -103,7 +103,7 @@ body {
   }
   
   #keyboard-cont {
-    margin: 1rem 0;
+    margin: 1px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -114,11 +114,11 @@ body {
   }
   
   .second-row {
-    margin: 0.5rem 0;
+    margin: 0.5px;
   }
   
   .keyboard-button {
-    padding: 0.5rem;
+    padding: 0.5px;
     margin: 0 2px;
     cursor: pointer;
     text-transform: uppercase;
